@@ -6,10 +6,10 @@
 
 ### I'm Tobey Li
 
-- 🔭 Undergraduate in HUST majoring in Software Engineering(2018-2021). 
+- :office: Undergraduate in HUST majoring in Software Engineering(2018-2021). 
 - 🌱 I am interested in ML algorithm and applications,Currently working on text similarity.
-- ⚡ Fun fact: Data Analysis📊
-- 💬 Contact me by [email](mailto:tobeyli6347@qq.com).
+- ⚡ Fun fact: Data Analysis,Modling,Data Minining.
+- 💬 Contact me by [Email](mailto:tobeyli6347@qq.com) or by [LinkedIn]([linkedin.com/in/li-tao-243387183](https://www.linkedin.com/in/li-tao-243387183))
 
 ### Languages and Tools
 

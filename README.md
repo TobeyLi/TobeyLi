@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/TobeyLi/TobeyLi/blob/main/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/TobeyLi/TobeyLi/main/pic/pusheencode.gif" />
 
 ### I'm Tobey Li
 
